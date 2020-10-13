@@ -3,3 +3,4 @@ Git is a software.
 Github is a platform.
 Git has a mutable index called stage.
 Git tracks changes.
+The changes of readme has not been added into stage.
